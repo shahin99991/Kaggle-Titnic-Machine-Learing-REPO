@@ -1,4 +1,4 @@
-# Kaggle-Titnic-Machine-Learing-REPO
+# Kaggle-Titanic-Machine-Learning-REPO
 
 学校のAIシステム開発授業向けに、タイタニック生存者分析の基本構成を用意したリポジトリです。  
 今回の授業では **Train.csv の一部を分割してテスト用（評価用）データ** に使います。  
