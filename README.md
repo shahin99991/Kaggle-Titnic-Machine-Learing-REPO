@@ -12,7 +12,7 @@
 ├── data
 │   ├── raw
 │   │   ├── Train.csv            # 元の学習データ
-│   │   └── Test.csv             # 受領データ（評価には使わない）
+│   │   └── Test.csv             # 元のテストデータ（評価には使わない）
 │   ├── split_from_train
 │   │   ├── train_split.csv      # Train.csvから作る学習用データ
 │   │   └── valid_split.csv      # Train.csvから作る評価用データ
